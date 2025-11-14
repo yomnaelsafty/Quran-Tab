@@ -2,7 +2,7 @@
 
 **Quran Tab** is a Chrome and Edge browser extension that replaces your new tab with a random ayah from the Quran, helping you stay inspired every time you open a new tab.
 
-[🌐 Open the Extension Page](https://bit.ly/qt-chrome)
+[🌐 Open the Page](https://yomnaelsafty.github.io/Quran-Tab)
 
 ## Features
 
